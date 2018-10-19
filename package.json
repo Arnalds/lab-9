@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Arnalds/labexercise2#readme",
   "devDependencies": {
+    "express": "^4.16.4",
     "jest": "^23.6.0",
     "supertest": "^3.3.0"
   }
